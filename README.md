@@ -1,3 +1,5 @@
+Main refference: https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2103/IFSC_TCC_Bobinas_de_Helmholtz.pdf?sequence=1&isAllowed=y
+
 # 1. Helmholtz coil simulator
 
 This project aim is to prototype some kind of system control it automaticaly and make some fields setups in static applications.
