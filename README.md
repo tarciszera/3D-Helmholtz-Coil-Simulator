@@ -4,6 +4,17 @@ Main refference: https://repositorio.ifsc.edu.br/bitstream/handle/123456789/2103
 
 This project aim is to prototype some kind of system control it automaticaly and make some fields setups in static applications.
 
+## Usage
+
+To run the simulator clone the repo and execute the following commands (on linux).
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python HelmholtzCoilCalculator.py
+```
+
 ## Table of contents
 
   - [1. Helmholtz coil simulator](#1-helmholtz-coil-simulator)
